@@ -12,7 +12,7 @@ entertainment = int(input("Enter your entertainment expenses: "))
 total_expenses = rent + food + transport + entertainment
 print(f"Your Total Expense is: ${total_expenses}")
 
-# Calculate remaining moneyv
+# Calculate remaining money
 
 remaining_money = income - total_expenses
 print(f"Your remaining money is: ${remaining_money}")
